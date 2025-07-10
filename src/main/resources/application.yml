@@ -1,3 +1,5 @@
+myMessage: Hello Anil
+
 spring:
   application:
     name: DemoProject
