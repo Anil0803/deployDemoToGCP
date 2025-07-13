@@ -1,4 +1,4 @@
-myMessage: Hello GCP
+myMessage: Hello GCP! Running from Cloud
 
 spring:
   application:

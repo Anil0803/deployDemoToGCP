@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.demoGcp</groupId>
 	<artifactId>DemoProject</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>DemoProject</name>
 	<description>Demo Project to Deploy to GCP - Cloud Run</description>
 	<url/>
