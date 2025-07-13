@@ -14,4 +14,9 @@ public class DemoController {
     public String sayHello() {
         return valueMessage;
     }
+
+    @GetMapping(value = "/sayBye")
+    public String sayBye() {
+        return "BYE BYE from Cloud!!!";
+    }
 }
